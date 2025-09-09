@@ -25,15 +25,34 @@ A conversational chatbot powered by Google Gemini, built with [LangGraph](https:
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/Mohnish-Sonkusale/conversational_chatbot_with_Gemini.git
-    cd your-repo-name
+    cd conversational_chatbot_with_Gemini
     ```
 
-2. **Install dependencies:**
+2. **(Recommended) Create and activate a virtual environment:**
+
+    **On Windows:**
+    ```bash
+    python -m venv venv
+    venv\Scripts\activate
+    ```
+
+    **On macOS/Linux:**
+    ```bash
+    python3 -m venv venv
+    source venv/bin/activate
+    ```
+
+    > To deactivate the virtual environment at any time, just run:
+    > ```bash
+    > deactivate
+    > ```
+
+3. **Install dependencies:**
     ```bash
     pip install -r requirements.txt
     ```
 
-3. **Set up your API key:**
+4. **Set up your API key:**
     - Create a `.env` file in the project root directory.
     - Add your Google API key:
         ```
