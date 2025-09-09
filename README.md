@@ -1,5 +1,3 @@
-# conversational_chatbot_with_Gemini
-
 # Conversational Chat Bot with Gemini
 
 A conversational chatbot powered by Google Gemini, built with [LangGraph](https://github.com/langchain-ai/langgraph) for managing conversation flow and [SQLite](https://www.sqlite.org/) for persistent chat history. The project is designed to be deployed as a [Streamlit](https://streamlit.io/) web application.
