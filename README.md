@@ -24,7 +24,7 @@ A conversational chatbot powered by Google Gemini, built with [LangGraph](https:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
+    git clone https://github.com/Mohnish-Sonkusale/conversational_chatbot_with_Gemini.git
     cd your-repo-name
     ```
 
